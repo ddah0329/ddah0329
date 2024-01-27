@@ -2,8 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=false&width=1000&height=100&lines=Welcome+to+ddah0329's+GitHub!👋)](https://git.io/typing-svg)
 <p>
   <a href="https://ddah0329.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-eb531f?style=flat-square&logo=Tistory&logoColor=white"/></a>
+  <a href="mailto:aldrlsb03@naver.com" target="_blank"><img src="https://img.shields.io/badge/aldrlsb03@naver.com-EA4335?style=flat-square&logo=Naver&logoColor=white"/></a>
 <!--   <a href="https://mookseong.notion.site/9a1a2e7072444d92a40ffaf350f7d78d?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> -->
-  <a href="mailto:kmkook12312@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kmkook12312@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 - 👋 Hi, I’m DaHyoun Ma
