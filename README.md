@@ -3,10 +3,24 @@
 - 🌱 I’m currently learning MachineLearning, BigData, Frontend(React, Kotlin..) etc
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-![gmail]<https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디)](https://github.com/anuraghazra/github-readme-stats)
+📚 I'm using now
 
+![React](https://img.shields.io/badge/react-00a2ff.svg?logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%234FC08D.svg?logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-ffc929.svg?logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-GraphQL-ff00c8?logo=graphql&logoColor=white)
+
+![ddah0329's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddah0329&show_icons=true&theme=tokyonight)
+
+<!--
+![React](https://img.shields.io/badge/react-f5f5f5.svg?logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-f5f5f5.svg?logo=vuedotjs&logoColor=%234FC08D)
+![TypeScript](https://img.shields.io/badge/typescript-f5f5f5.svg?logo=typescript&logoColor=%23007ACC)
+![JavaScript](https://img.shields.io/badge/javascript-f5f5f5.svg?logo=javascript&logoColor=ffc929)
+![JavaScript](https://img.shields.io/badge/-GraphQL-f5f5f5?logo=graphql&logoColor=ff00c8)
+-->
 
 <!---
 ddah0329/ddah0329 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
