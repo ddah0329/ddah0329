@@ -8,14 +8,20 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-📚 I'm using now
+📚 I'm using
 
 ![React](https://img.shields.io/badge/react-00a2ff.svg?logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%234FC08D.svg?logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-ffc929.svg?logo=javascript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-GraphQL-ff00c8?logo=graphql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C.svg?logo=C&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?logo=Java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=HTML5&logoColor=white)
 
+
+<!--![Vue.js](https://img.shields.io/badge/vuejs-%234FC08D.svg?logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-GraphQL-ff00c8?logo=graphql&logoColor=white)
+-->
 ![ddah0329's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddah0329&show_icons=true&theme=tokyonight)
 
 <!--
