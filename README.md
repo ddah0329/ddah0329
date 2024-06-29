@@ -6,12 +6,12 @@
 <!--   <a href="https://mookseong.notion.site/9a1a2e7072444d92a40ffaf350f7d78d?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> -->
 </p>
 
-- 👋 Hi, I’m DaHyoun Ma
-- 👀 I’m interested in ...
+- 👋 Hi, I’m DaHyoun Ma- 
 - 🌱 I’m currently learning MachineLearning, BigData, Frontend(React, Kotlin..) etc
+<!-- - 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+-->
 📚 I'm using
 
 ![React](https://img.shields.io/badge/react-00a2ff.svg?logo=react&logoColor=white)
