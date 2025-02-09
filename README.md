@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=false&width=1000&height=100&lines=Welcome+to+ddah0329's+GitHub!👋)](https://git.io/typing-svg)
 <p>
+    <a href="mailto:ddah0329m@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ddah0329m@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/dev_ddah" target="_blank"><img src="https://img.shields.io/badge/instagram-FFDC80?style=flat-square&logo=Instagram&logoColor=black"/></a>
   <a href="https://ddah0329.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-eb531f?style=flat-square&logo=Tistory&logoColor=white"/></a>
-  <a href="mailto:ddah0329m@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ddah0329m@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
   
 <!--   <a href="https://mookseong.notion.site/9a1a2e7072444d92a40ffaf350f7d78d?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> -->
 </p>
