@@ -2,17 +2,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=false&width=1000&height=100&lines=Welcome+to+ddah0329's+GitHub!👋)](https://git.io/typing-svg)
 <p>
   <a href="https://ddah0329.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-eb531f?style=flat-square&logo=Tistory&logoColor=white"/></a>
-  <a href="mailto:ddah0329m@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ddah0329m@gmail.com-4CAF50?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:ddah0329m@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ddah0329m@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  
 <!--   <a href="https://mookseong.notion.site/9a1a2e7072444d92a40ffaf350f7d78d?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> -->
 </p>
 
 - 👋 Hi, I’m ddah
+<!--
 - 🌱 I’m currently learning MachineLearning, BigData, Frontend(React, Kotlin..) etc
-<!-- - 👀 I’m interested in ...
+- 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -->
-📚 I'm using
+⚒️ Languages and Tools:
 
 ![React](https://img.shields.io/badge/react-00a2ff.svg?logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-ffc929.svg?logo=javascript&logoColor=white)
@@ -30,9 +32,21 @@
 
 ![ddah0329's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddah0329&show_icons=true&theme=tokyonight)
 -->
+<table>
+<tr>
+<td>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddah0329&langs_count=10&layout=compact)](https://github.com/ddah0329/ddah0329)  
 
-![ddah0329's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddah0329&show_icons=true&hide=issues) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddah0329&langs_count=10&layout=compact)](https://github.com/ddah0329/ddah0329)
+</td>
+<td>
+  
+![ddah0329's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddah0329&show_icons=true&hide=issues)
+</td>
+</tr>
+</table>
+
+
 
 <!--
 ![React](https://img.shields.io/badge/react-f5f5f5.svg?logo=react&logoColor=%2361DAFB)
